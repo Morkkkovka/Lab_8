@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\bin\Debug\TS_AN_LAB_8_task2_.exe.config
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\bin\Debug\TS_AN_LAB_8_task2_.exe
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\bin\Debug\TS_AN_LAB_8_task2_.pdb
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\obj\Debug\TS_AN_LAB_8_task2_.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\obj\Debug\TS_AN_LAB_8_task2_.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\obj\Debug\TS_AN_LAB_8_task2_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\obj\Debug\TS_AN_LAB_8_task2_.exe
+C:\Users\User\source\repos\TS_AN_LAB_8_task2_\TS_AN_LAB_8_task2_\obj\Debug\TS_AN_LAB_8_task2_.pdb

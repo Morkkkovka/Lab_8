@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\obj\Debug\TS_AN_LAB8_task1_.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\obj\Debug\TS_AN_LAB8_task1_.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\obj\Debug\TS_AN_LAB8_task1_.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\bin\Debug\TS_AN_LAB8_task1_.exe.config
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\bin\Debug\TS_AN_LAB8_task1_.exe
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\bin\Debug\TS_AN_LAB8_task1_.pdb
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\obj\Debug\TS_AN_LAB8_task1_.exe
+C:\Users\User\source\repos\TS_AN_LAB8_task1_\TS_AN_LAB8_task1_\obj\Debug\TS_AN_LAB8_task1_.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.exe.config
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.exe
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.pdb
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.exe
+C:\Users\User\source\repos\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.pdb
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.exe.config
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.exe
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\bin\Debug\TS_AN_LAB_8_task_3.pdb
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.exe
+C:\Users\User\source\repos\Lab_8\TS_AN_LAB_8_task_3\TS_AN_LAB_8_task_3\obj\Debug\TS_AN_LAB_8_task_3.pdb
